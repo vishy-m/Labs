@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=n\ a\ lati\ longi
+comment0.target=Place(java.lang.String,\ java.lang.String,\ double,\ double)
+comment1.params=n\ a\ loc
+comment1.target=Place(java.lang.String,\ java.lang.String,\ GeoLocation)
+comment2.params=other
+comment2.target=double\ distanceTo(Place)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

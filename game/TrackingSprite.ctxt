@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=x\ y\ width\ height\ image\ player
+comment0.target=TrackingSprite(double,\ double,\ int,\ int,\ java.lang.String,\ PlayerSprite)
+comment1.params=world
+comment1.target=void\ step(World)
+comment2.params=
+comment2.target=void\ track()
+comment3.params=
+comment3.target=void\ reset()
+comment4.params=
+comment4.target=int\ getNumTrackers()
+numComments=5

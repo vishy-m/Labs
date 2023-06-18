@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=x\ y\ width\ height\ image\ vx\ vy
+comment0.target=BulletSprite(double,\ double,\ int,\ int,\ java.lang.String,\ double,\ double)
+comment1.params=world
+comment1.target=void\ step(World)
+numComments=2

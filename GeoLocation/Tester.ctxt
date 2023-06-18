@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=
+comment1.target=void\ simpleMethod()
+comment2.params=a\ b
+comment2.target=int\ sum(int,\ int)
+comment3.params=n
+comment3.target=int\ sumToN(int)
+comment4.params=n
+comment4.target=void\ triangle(int)
+comment5.params=s
+comment5.target=java.lang.String\ altCaps(java.lang.String)
+numComments=6
