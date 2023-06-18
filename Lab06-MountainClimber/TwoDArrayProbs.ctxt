@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=nums
+comment0.target=TwoDArrayProbs(int[][])
+comment1.params=
+comment1.target=int\ sum()
+comment2.params=
+comment2.target=boolean\ isSquare()
+comment3.params=other
+comment3.target=void\ addMatrix(int[][])
+comment4.params=col
+comment4.target=int\ columnSum(int)
+comment5.params=
+comment5.target=boolean\ isColumnMagic()
+comment6.params=
+comment6.target=int\ diagDifference()
+numComments=7

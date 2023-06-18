@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SubstitutionCypher()
+comment1.params=messsage
+comment1.target=java.lang.String\ encode(java.lang.String)
+comment2.params=secretCode
+comment2.target=java.lang.String\ decode(java.lang.String)
+numComments=3

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=animals
+comment0.target=int\ totalWidth(java.util.ArrayList)
+comment1.params=animals
+comment1.target=Animal\ tallestAnimal(java.util.ArrayList)
+comment2.params=animals
+comment2.target=int\ countYourChickens(java.util.ArrayList)
+comment3.params=animals
+comment3.target=java.util.ArrayList\ inventory(java.util.ArrayList)
+comment4.params=animals
+comment4.target=void\ pestControl(java.util.ArrayList)
+comment5.params=animals
+comment5.target=void\ horsingAround(java.util.ArrayList)
+comment6.params=animals
+comment6.target=void\ feelingSheepish(java.util.ArrayList)
+comment7.params=animals
+comment7.target=void\ selectionSort(java.util.ArrayList)
+comment8.params=animals
+comment8.target=void\ insertionSort(java.util.ArrayList)
+numComments=9

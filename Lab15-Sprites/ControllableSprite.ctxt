@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=x\ y\ width\ height\ image
+comment0.target=ControllableSprite(double,\ double,\ int,\ int,\ java.lang.String)
+comment1.params=world
+comment1.target=void\ step(World)
+numComments=2

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=House()
+comment1.params=a
+comment1.target=void\ add(Animal)
+comment2.params=
+comment2.target=void\ printAnimals()
+comment3.params=
+comment3.target=void\ cleanHouse()
+numComments=4

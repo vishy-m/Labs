@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=fileName
+comment0.target=GreedyPath(java.lang.String)
+comment1.params=
+comment1.target=double\ getDistance()
+comment2.params=i
+comment2.target=Point\ getPoint(int)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

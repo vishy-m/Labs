@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=filename
+comment0.target=MapIllustrator(java.lang.String)
+comment1.params=
+comment1.target=int\ getRows()
+comment2.params=
+comment2.target=int\ getCols()
+comment3.params=
+comment3.target=void\ initCanvas()
+comment3.text=initialize\ the\ drawing\ window
+comment4.params=
+comment4.target=int\ findMin()
+comment4.text=@return\ the\ min\ value\ in\ the\ entire\ grid
+comment5.params=
+comment5.target=int\ findMax()
+comment5.text=@return\ the\ max\ value\ in\ the\ entire\ grid
+comment6.params=
+comment6.target=void\ drawMap()
+comment6.text=\r\n\ Draws\ the\ grid\ (map)\r\n\ Colors\ should\ be\ grayscale\ values\ 0-255,\ scaled\ based\ on\ min/max\ values\ in\ grid\r\n
+comment7.params=row
+comment7.target=int\ drawPath(int)
+comment7.text=\r\n\ Find/draw\ a\ greedy\ path\ from\ West-to-East,\ starting\ at\ given\ row.\r\n\ Choose\ a\ forward\ step\ out\ of\ 3\ possible\ forward\ locations,\ using\ greedy\ method\ described\ in\ assignment.\r\n\ @return\ the\ total\ change\ in\ elevation\ traveled\ from\ West-to-East\r\n
+comment8.params=
+comment8.target=int\ getIndexOfLowestPath()
+comment8.text=@return\ the\ index\ of\ the\ starting\ row\ for\ the\ lowest-elevation-change\ path\ in\ the\ entire\ grid.
+numComments=9

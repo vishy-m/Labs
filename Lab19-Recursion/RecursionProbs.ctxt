@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=bunnies
+comment1.target=int\ numEars(int)
+comment10.params=num
+comment10.target=int\ countOdds(int)
+comment11.params=num
+comment11.target=int\ sumDigits(int)
+comment2.params=num
+comment2.target=void\ countdown(int)
+comment3.params=num
+comment3.target=long\ factorial(long)
+comment4.params=str\ i
+comment4.target=java.lang.String\ cheerlead(java.lang.String,\ int)
+comment5.params=num\ exp
+comment5.target=int\ pow(int,\ int)
+comment6.params=num
+comment6.target=int\ fib(int)
+comment7.params=num
+comment7.target=void\ printPattern(int)
+comment8.params=str
+comment8.target=int\ countNumA(java.lang.String)
+comment9.params=a\ b\ c
+comment9.target=void\ printAtoBbyC(int,\ int,\ int)
+numComments=12

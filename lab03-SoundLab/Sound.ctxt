@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=samples
+comment1.target=void\ play(double[])
+comment1.text=play\ the\ sound\ clip\ represented\ by\ the\ samples\ array
+comment2.params=freq\ seconds
+comment2.target=double[]\ pureTone(double,\ double)
+comment2.text=\ generate\ an\ array\ that\ represents\ a\ "pure"\ tone\ of\ the\ specified\r\n\ \ frequency,\ for\ the\ given\ duration\r\n
+comment3.params=samples
+comment3.target=void\ show(double[])
+comment3.text=produce\ a\ graphical\ representation\ of\ the\ supplied\ sound\ clip
+comment4.params=seconds
+comment4.target=int\ toNumSamples(double)
+comment4.text=\ return\ the\ number\ of\ samples\ (array\ elements)\ for\ the\ given\ duration,\r\nbased\ on\ the\ standard\ sampling\ frequency
+comment5.params=numSamples
+comment5.target=double\ toSeconds(int)
+comment5.text=\ return\ the\ duration\ (in\ seconds)\ of\ a\ sound\ clip,\ given\ the\ number\ of\r\nsamples\ in\ the\ clip
+numComments=6

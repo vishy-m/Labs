@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.String\ getName()
+comment1.params=
+comment1.target=int\ getAdvertisingAmount()
+comment1.text=\r\n\ How\ much\ money\ are\ you\ going\ to\ spend\ on\ advertising\ today?\r\n\ Minimum\ amount\ is\ 0.\ \ Maximum\ amount\ is\ 10.\r\n\ Trying\ to\ spend\ outside\ of\ that\ range\ will\ automatically\ adjust\ value.\r\n\ \r\n\ 10\ customers\ plan\ to\ spend\ $1\ each\ day.\r\n\ If\ you\ spend\ more\ on\ advertising\ than\ the\ other\ player,\ you\ get\ all\ 10\ of\ the\ customers\ that\ day.\ \r\n\ If\ the\ other\ player\ spends\ more\ money\ than\ you\ on\ advertising,\ you\ get\ 0\ customers\ that\ day.\r\n\ If\ you\ and\ the\ other\ player\ spend\ the\ same\ on\ advertising,\ you\ split\ the\ 10\ customers.\ (5\ each)\r\n\ \ \r\n\ Example\:\r\n\ If\ you\ spend\ $3\ on\ ads\ and\ your\ opponent\ spends\ $2,\ you\ get\ all\ the\ customers.\r\n\ You\ make\ $7\ ($10\ from\ your\ customers\ minus\ $3\ in\ advertisting.)\r\n\ Your\ opponent\ got\ -$2\ for\ the\ day\ (spent\ money\ on\ ads,\ but\ got\ no\ customers.)\r\n\ \r\n\ The\ game\:\ Make\ as\ much\ money\ as\ possible\ over\ 365\ days\ by\ outwitting\ your\ opponent.\r\n\ A\ good\ algorithm\ might\ analyze\ what\ happened\ in\ previous\ rounds\ to\ learn\ the\ opponent's\ \r\n\ strategy\ and\ predict\ their\ behavior.\ \r\n
+comment2.params=dayHistory
+comment2.target=java.util.HashMap\ initializeMap(java.util.ArrayList)
+comment3.params=oppExpenses
+comment3.target=int\ getMostCommonNum(java.util.HashMap)
+comment4.params=map
+comment4.target=java.util.ArrayList\ getKeys(java.util.HashMap)
+comment5.params=map
+comment5.target=java.util.ArrayList\ getValues(java.util.HashMap)
+numComments=6

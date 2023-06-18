@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=xc\ yc\ m\ n
+comment0.target=Star(double,\ double,\ double,\ java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=double\ getX()
+comment3.params=
+comment3.target=double\ getY()
+comment4.params=
+comment4.target=double\ getMag()
+numComments=5

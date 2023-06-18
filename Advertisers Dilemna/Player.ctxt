@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=match
+comment0.target=void\ enterGame(Head2HeadMatch)
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment2.params=
+comment2.target=Head2HeadMatch\ getMatch()
+comment3.params=
+comment3.target=int\ getAdvertisingAmount()
+numComments=4

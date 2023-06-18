@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CombinationLock()
+comment1.params=combo
+comment1.target=CombinationLock(java.lang.String)
+comment2.params=
+comment2.target=void\ open()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=combo
+comment4.target=void\ setCombination(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getCombination()
+numComments=6

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=num\ limit
+comment0.target=void\ makeListAndPrint(int,\ int)
+comment1.params=list
+comment1.target=java.util.ArrayList\ addOne(java.util.ArrayList)
+comment2.params=list
+comment2.target=java.util.ArrayList\ minToFront(java.util.ArrayList)
+comment3.params=list
+comment3.target=java.util.ArrayList\ removeDupes(java.util.ArrayList)
+comment4.params=list
+comment4.target=java.util.ArrayList\ swapPairs(java.util.ArrayList)
+comment5.params=list\ n
+comment5.target=java.util.ArrayList\ removeLenN(java.util.ArrayList,\ int)
+comment6.params=list
+comment6.target=int\ dumbestPersonLocation(java.util.ArrayList)
+comment7.params=list
+comment7.target=Book\ highestPricedBook(java.util.ArrayList)
+comment8.params=list\ badBookName
+comment8.target=java.util.ArrayList\ banBook(java.util.ArrayList,\ java.lang.String)
+comment9.params=store
+comment9.target=double\ bookstoreValue(Bookstore)
+numComments=10

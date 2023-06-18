@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Monster()
+comment1.params=n\ h\ w\ a
+comment1.target=Monster(java.lang.String,\ double,\ double,\ int)
+comment2.params=h\ w\ a
+comment2.target=Monster(double,\ double,\ int)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=o
+comment4.target=boolean\ equals(java.lang.Object)
+comment5.params=
+comment5.target=java.lang.String\ getName()
+comment6.params=n
+comment6.target=void\ setName(java.lang.String)
+comment7.params=o
+comment7.target=int\ compareTo(Monster)
+numComments=8

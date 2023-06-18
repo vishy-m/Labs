@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Truck()
+comment1.params=t\ y\ p\ tow
+comment1.target=Truck(java.lang.String,\ int,\ double,\ int)
+comment2.params=
+comment2.target=boolean\ canTowBoat()
+comment3.params=
+comment3.target=java.lang.String\ getInfo()
+numComments=4

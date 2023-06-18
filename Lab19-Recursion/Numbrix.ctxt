@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=fileName
+comment0.target=Numbrix(java.lang.String)
+comment0.text=\r\n\ Constructs\ a\ Numbrix\ object.\r\n\ @param\ fileName\ the\ name\ of\ the\ file\ containing\ the\ puzzle\ data.\r\n\ @throws\ FileNotFoundException\ when\ fileName\ file\ does\ not\ exist.\r\n
+comment1.params=
+comment1.target=void\ solve()
+comment1.text=\r\n\ Finds\ all\ solutions\ to\ the\ Numbrix\ stored\ in\ grid\ by\r\n\ calling\ recursiveSolve\ for\ every\ possible\ cell\ in\ grid\ that\r\n\ originally\ contains\ a\ 0\ or\ a\ 1.\ \ Each\ of\ these\ calls\ should\r\n\ attempt\ to\ solve\ the\ puzzle\ beginning\ with\ the\ number\ 1.\r\n
+comment2.params=r\ c\ n
+comment2.target=void\ recursiveSolve(int,\ int,\ int)
+comment2.text=\r\n\ Attempts\ to\ solve\ the\ Numbrix\ by\ placing\ n\ in\ grid[r][c]\r\n\ and\ then\ makeing\ recursive\ calls\ (up,\ down,\ left,\ and\ right)\ to\r\n\ place\ n+1\ and\ higher\ numbers.\r\n\ @param\ r\ the\ row\ of\ the\ cell\ in\ which\ to\ place\ n.\r\n\ @param\ c\ the\ column\ of\ the\ cell\ in\ which\ to\ place\ n.\r\n\ @param\ n\ the\ number\ to\ place\ in\ grid[r][c].\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ Returns\ a\ String\ which\ represents\ the\ puzzle.\r\n\ @return\ the\ puzzle\ numbers\ with\ a\ tab\ after\ each\ number\ in\ a\ row\r\n\ \ \ \ \ \ \ \ \ and\ a\ new\ line\ character\ after\ each\ row.\r\n\ \ \ \ \ \ \ \ \ '-'\ characters\ should\ replace\ 0s\ in\ the\ output.\r\n
+numComments=4

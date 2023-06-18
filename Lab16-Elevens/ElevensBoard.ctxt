@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ElevensBoard()
+comment1.params=selectedCards
+comment1.target=boolean\ isLegal(java.util.List)
+comment2.params=
+comment2.target=boolean\ anotherPlayIsPossible()
+comment3.params=selectedCards
+comment3.target=boolean\ containsPairSum(java.util.List)
+comment4.params=selectedCards
+comment4.target=boolean\ containsJQK(java.util.List)
+numComments=5

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=nameOfFile
+comment0.target=NBodySimulation(java.lang.String)
+comment1.params=
+comment1.target=void\ initCanvas()
+comment1.text=initialize\ the\ drawing\ canvas
+comment2.params=T\ dt
+comment2.target=void\ run(double,\ double)
+comment2.text=\r\n\ run\ the\ n-bodies\ simulation\r\n\ @param\ T\ total\ time\ to\ run\ the\ simulation,\ in\ seconds\r\n\ @param\ dt\ time\ step,\ in\ seconds\r\n
+numComments=3

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=picture
+comment0.target=PictureViewer(Picture)
+comment0.text=\r\n\ Creates\ a\ PictureViewer\ with\ a\ given\ {@link\ Picture}\r\n\ @param\ picture\ The\ {@link\ Picture}\ to\ view\r\n
+comment1.params=
+comment1.target=void\ close()
+comment1.text=\r\n\ Closes\ the\ PictureViewer\r\n
+comment2.params=cursor\ color
+comment2.target=java.lang.String\ makeLabelText(java.awt.Point,\ java.awt.Color)
+numComments=3

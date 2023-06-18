@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Car()
+comment1.params=t\ y\ p\ milespg
+comment1.target=Car(java.lang.String,\ int,\ double,\ double)
+comment2.params=
+comment2.target=boolean\ greatMPG()
+comment3.params=
+comment3.target=java.lang.String\ getInfo()
+numComments=4

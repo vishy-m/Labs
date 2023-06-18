@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Vehicle()
+comment1.params=t\ y\ p
+comment1.target=Vehicle(java.lang.String,\ int,\ double)
+comment2.params=
+comment2.target=java.lang.String\ getType()
+comment3.params=
+comment3.target=int\ getYear()
+comment4.params=
+comment4.target=double\ getPrice()
+comment5.params=
+comment5.target=java.lang.String\ getInfo()
+numComments=6
