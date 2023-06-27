@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SoundLabProbs()
+comment1.params=nums\ value
+comment1.target=int\ lastIndexOf(int[],\ int)
+comment2.params=nums
+comment2.target=int\ range(int[])
+comment3.params=nums
+comment3.target=int\ minDifference(int[])
+comment4.params=str
+comment4.target=java.lang.String\ reverseWords(java.lang.String)
+comment5.params=bids\ price
+comment5.target=int\ priceIsRight(int[],\ int)
+comment6.params=nums
+comment6.target=int[]\ productExceptSelf(int[])
+numComments=7
