@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=cN\ pop
+comment0.target=CityPop(java.lang.String,\ int)
+comment1.params=
+comment1.target=java.lang.String\ getCityName()
+comment2.params=
+comment2.target=int\ getPopulation()
+comment3.params=other
+comment3.target=boolean\ equals(CityPop)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5
