@@ -7,7 +7,7 @@ import java.io.IOException;
 public class DrawPath
 {
     public static void main(String [] args) throws IOException {
-        final String file = "mona-50k.txt"; //change to try other files
+        final String file = "mona-20k.txt"; //change to try other files
         GreedyPath p = new GreedyPath(file);  //Eventually, you can change this to say Path p = new GreedyPath(file);
         draw(p);
     }
