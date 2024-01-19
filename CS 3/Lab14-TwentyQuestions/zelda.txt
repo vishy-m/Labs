@@ -1,0 +1,9 @@
+(4)Is it 2d?
+(8)Does it have side-scrolling action?
+(9)Zelda 2: Adventure of Link
+(6)Is it 16-bit?
+(7)A Link to the Past
+(5)Original Legend of Zelda
+(2)Do you turn into a wolf?
+(3)Twilight Princess
+(1)Ocarina of Time
